@@ -1,2 +1,6 @@
 # hello-world
-mi primer hola mundo
+Hola humanos!!!!
+
+soy yo, me gusta programar.
+
+
